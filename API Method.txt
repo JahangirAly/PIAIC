@@ -1,0 +1,16 @@
+Default.aspx.vb -> Method name add
+fxows.asmx.vb -> Web method add - > getdeals copy, fxofacade/Entity.vb -> uploadentitydocument
+fxofacade/Entity.vb - > input processing 
+facade/common.vb - > case add hoga in GetList method
+business logic -> query 
+
+schemea
+masterxml
+
+web reference -> refresh
+Master.xml -1.  Structure of query
+FXOWEBSERVICE -> InputXML -> For making input which we pass 
+FXOWEBSERVICE -> Schema -> making structure of xml xsd file
+
+
+
